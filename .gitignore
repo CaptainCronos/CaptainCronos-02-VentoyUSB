@@ -1,0 +1,24 @@
+# Large boot images
+*.iso
+*.img
+*.wim
+*.vhd
+*.vhdx
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Windows executables/installers
+*.exe
+*.msi
+
+# Checksums may be generated locally
+checksums.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+System Volume Information/
